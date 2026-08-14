@@ -269,8 +269,3 @@ Durante esses exercícios foram praticados os seguintes conceitos da linguagem C
 
 ---
 
----
-
-## Autor
-
-Projeto desenvolvido durante as aulas de programação em **linguagem C**.
