@@ -269,25 +269,6 @@ Durante esses exercícios foram praticados os seguintes conceitos da linguagem C
 
 ---
 
-# Estrutura do Projeto
-
-Uma organização recomendada para o repositório é:
-
-```text
-exercicios-em-aula-c/
-│
-├── README.md
-│
-├── exercicio-01/
-│   └── media_estudante.c
-│
-├── exercicio-02/
-│   └── vogal.c
-│
-└── exercicio-03/
-    └── numeros_pares.c
-```
-
 ---
 
 ## Autor
